@@ -1,4 +1,4 @@
-# vpc.tf 
+# vpc.tf File 
 # Create VPC/Subnet/Security Group/Network ACL
 provider "aws" { 
   region     = var.region
