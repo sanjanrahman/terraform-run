@@ -1,9 +1,9 @@
 # variables.tf
 variable "region" {
-     default = "us-west-1"
+     default = "us-east-1"
 }
 variable "availabilityZone" {
-     default = "us-west-1a"
+     default = "us-east-1a"
 }
 variable "instanceTenancy" {
     default = "default"
